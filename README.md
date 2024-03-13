@@ -1,4 +1,4 @@
-# AtHome-Retail-DataBase-DataWarehouseSystem
+# At Home-Retail-Database-Datawarehouse System
 This repository hosts the "At Home" retail project, featuring database and data warehouse designs, SQL scripts, and analysis for retail data management and decision-making support.
 The "At Home-RetailDataBase-DataWarehouseSystem" project aims to enhance "At Home" retail's data management through a comprehensive database and data warehouse system. Focused on improving operational efficiency and decision-making, the project features an Entity-Relationship Diagram (ERD), meticulously designed SQL scripts for database setup, and analytical queries for in-depth data analysis. It addresses key business operations like product sales, inventory management, and customer data integration, with a strong emphasis on data-driven insights for retail optimization.
 
